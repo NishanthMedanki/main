@@ -1,0 +1,1 @@
+out_scores, out_boxes, out_classes = predict(sess, "images/test.jpg")
